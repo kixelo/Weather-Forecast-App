@@ -23,5 +23,5 @@ import requests
 
 ## Web App link
 ```
-[https://weather-forecast-app-gw9cans9hfrsakv3t8np3t.streamlit.app/)https://weather-forecast-app-gw9cans9hfrsakv3t8np3t.streamlit.app/]
+https://weather-forecast-app-gw9cans9hfrsakv3t8np3t.streamlit.app/)https://weather-forecast-app-gw9cans9hfrsakv3t8np3t.streamlit.app/
 ```
